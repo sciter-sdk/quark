@@ -53,3 +53,6 @@ If the above functionality is not enough then Quark (Sciter’s runtime in fact)
 * Native custom DOM elements and input elements (a.k.a. native behaviors): DLL-resident DOM element implementations can handle events and do native painting using  [sciter::graphics API](https://github.com/c-smile/sciter-sdk/blob/master/include/sciter-x-graphics.hpp#L332) ;
 * Native DOM elements wrapping of existing HWND, NSView, GtkWidget based components
 
+## More details
+
+Go to [quark.sciter.com](https://quark.sciter.com) for mor details.
